@@ -10,3 +10,11 @@ h1 {
     text-align: center;
     color: rgb(166, 130, 199);
 }
+
+ul {
+    list-style: circle;
+}
+
+a {
+    text-decoration: none;
+}
