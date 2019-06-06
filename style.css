@@ -1,0 +1,12 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::after, *::before, *:after, *:before {
+    box-sizing: inherit;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(166, 130, 199);
+}
